@@ -11,7 +11,7 @@ int main()
 	string op; //string data type for the operation
 
 	cout << "Welcome to the C++ ULTRA SUPER CALCULATOR!!! \n"
-		"By ScriptOnthe..." << endl;
+		"By RedocTechno..." << endl;
 	Sleep(500); //time delay
 
 	cout << "Enter first number: ";
